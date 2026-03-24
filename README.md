@@ -2,7 +2,7 @@
 
 A fast, local GeoJSON visualizer for files of any size. Combines a WebGL-powered browser UI with a Python streaming backend so even multi-gigabyte files load in seconds.
 
-![Dark map with sidebar and feature inspector](image.png)
+![Light street map with sidebar](image.png)
 
 ---
 
